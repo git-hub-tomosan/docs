@@ -3,13 +3,16 @@
 
 We welcome contributions of any size and contributors of any skill level. As an open source project, we believe in giving back to our contributors. We are happy to help with guidance on PRs, technical writing, and turning any feature idea into a reality.
 
-私たちは、どのような規模の貢献でも、またどのようなスキルレベルの貢献者でも歓迎します。 オープンソースプロジェクトとして、私たちは貢献者に還元することを信じています。 PRの指導、テクニカルライティング、機能のアイデアを現実にすることなど、喜んでお手伝いさせていただきます。
+私たちは、どのような規模の貢献でも、またどのようなスキルレベルの貢献者でも歓迎します。
+オープンソースプロジェクトとして、私たちは貢献者に還元することを信じています。
+PRの指導、テクニカルライティング、機能のアイデアを現実にすることなど、喜んでお手伝いさせていただきます。
 
 > **"[Astro Docs Docs"](https://contribute.docs.astro.build)** is the best place to learn how to make a helpful, successful contribution to Astro Docs.
 >
 > There, you'll find all the information below, and so much more!
 
-「Astro Docs Docs "は、Astro Docsへの貢献の仕方を学ぶのに最適な場所です。 そこには、以下の情報やその他多くの情報が掲載されています！
+「Astro Docs Docs "は、Astro Docsへの貢献の仕方を学ぶのに最適な場所です。
+そこには、以下の情報やその他多くの情報が掲載されています！
 
 This document has some basic information to get you started, but we encourage you to visit our [dedicated site for contributing to Astro docs](https://contribute.docs.astro.build) for all the information you need!
 
@@ -23,7 +26,8 @@ There, you will find a writing and style guide, instructions on how to make chan
 > **Tip for new contributors:**
 > Take a look at [GitHub's Docs](https://docs.github.com/en/get-started/quickstart/hello-world) for helpful information on working with GitHub.
 
-新しい貢献者へのヒント： GitHub のドキュメントには、GitHub で作業する際に役立つ情報が掲載されています。
+新しい貢献者へのヒント
+GitHub のドキュメントには、GitHub で作業する際に役立つ情報が掲載されています。
 
 ## Types of Contributions
 
@@ -33,7 +37,9 @@ Astro Docsウェブサイトに貢献する方法はたくさんあります！
 
 The Astro Docs website is ... an Astro website! Maintaining it requires not only written content but also maintaining Astro code and addressing a11y, CSS, UI, and UX concerns. We also make our documentation available in several languages, so we need help translating the entire site.
 
-Astro Docsのウェブサイトは...Astroのウェブサイトです！ このサイトを維持するには、文章だけでなく、Astroのコードを維持し、a11y、CSS、UI、UXの問題に対処する必要があります。 また、私たちはドキュメントを数ヶ国語で公開しているため、サイト全体の翻訳をお手伝いいただく必要があります。
+Astro Docsのウェブサイトは...Astroのウェブサイトです！
+このサイトを維持するには、文章だけでなく、Astroのコードを維持し、a11y、CSS、UI、UXの問題に対処する必要があります。
+また、私たちはドキュメントを数ヶ国語で公開しているため、サイト全体の翻訳をお手伝いいただく必要があります。
 
 You can also make a huge contribution by getting involved by leaving review comments on [PRs](https://github.com/withastro/docs/pulls), adding ideas in existing GitHub [Issues](https://github.com/withastro/docs/issues) and [Discussions](https://github.com/withastro/docs/discussions) and participating in our "Pinned" issue maintenance tasks! 
 
@@ -41,7 +47,8 @@ You can also make a huge contribution by getting involved by leaving review comm
 
 Every PR, especially translation PRs, needs reviewers! Reviewing PRs and leaving comments, suggestions, or an approving "LGTM!" ("Looks Good To Me!") is a great way to get started on Team Docs, and to learn more about Astro.
 
-すべてのPR、特に翻訳PRにはレビュアーが必要です！ PRをレビューして、コメントや提案を残したり、"LGTM!"（"Looks Good To Me! ("Looks Good To Me!")を残すことは、Team Docsを始め、Astroについてもっと知るための素晴らしい方法です。
+すべてのPR、特に翻訳PRにはレビュアーが必要です！
+PRをレビューして、コメントや提案を残したり、"LGTM!"（"Looks Good To Me! ("Looks Good To Me!")を残すことは、Team Docsを始め、Astroについてもっと知るための素晴らしい方法です。
 
 We encourage you to:
 
@@ -49,7 +56,8 @@ We encourage you to:
 
 - **File an Issue** to let us know of outdated, confusing, or incorrect documentation. You can also let us know of any problems you encounter on the site itself.
 
-古い、わかりにくい、または間違ったドキュメントをお知らせいただくには、Issueを提出してください。 また、サイト上で発生した問題についてもお知らせください。
+古い、わかりにくい、または間違ったドキュメントをお知らせいただくには、Issueを提出してください。
+また、サイト上で発生した問題についてもお知らせください。
 
 - **Start a Discussion** if you're not sure that your "issue" rises to the level of incorrect documentation requiring a "fix," but you still want to share ideas and opinions.
 
@@ -73,7 +81,8 @@ GitHubのIssuesやDiscussionに応じて、新しいコンテンツを提供し�
 
 Submitting an Issue is usually the first step to making a change. After an Issue has been considered by the community, we often reach out to community members to encourage them to submit PRs based on existing Issues.
 
-Issueの提出は、通常、変更を行うための最初のステップです。 コミュニティによってIssueが検討された後、私たちはしばしばコミュニティメンバーに連絡を取り、既存のIssueに基づいてPRを提出するよう促します。
+Issueの提出は、通常、変更を行うための最初のステップです。
+コミュニティによってIssueが検討された後、私たちはしばしばコミュニティメンバーに連絡を取り、既存のIssueに基づいてPRを提出するよう促します。
 
 Larger contributions to the docs are encouraged after participating in Issues and Discussions, as unsolicited material may not fit into our existing plans.
 
@@ -154,7 +163,8 @@ GitHub.comで直接行うこともできますし、ローカルにリポジト�
 
 注意
 デフォルトでは、英語ページにマージされたPRは翻訳ステータストラッカーを起動します。
-変更をすべての言語に適用しない場合 (例: 英単語のタイプミスの修正)、PR のタイトルに "en-only" というキーワードを含めてください。 詳しくは次のセクションをご覧ください。
+変更をすべての言語に適用しない場合 (例: 英単語のタイプミスの修正)、PR のタイトルに "en-only" というキーワードを含めてください。
+詳しくは次のセクションをご覧ください。
 
 **Internationalization (i18n)**
 
@@ -173,7 +183,8 @@ Our Docs are translated into several languages and we rely on automation to noti
 
 **When choosing a PR title, please consider whether your PR should or should NOT trigger a rewrite to pages in other languages**: some tiny fixes are English only (e.g. spelling of English words) but some *will* require updating all language pages (e.g. a small error in a code sample).  Please use the keyword "en-only" in your PR title to override this default behavior and indicate that your PR does **NOT** require translating.
 
-PRのタイトルを選択する際には、PRが他の言語のページへの書き換えをトリガーすべきか、またはトリガーすべきでないかを検討してください：いくつかの小さな修正は英語のみですが（例：英単語のスペル）、いくつかはすべての言語のページを更新する必要があります（例：コードサンプルの小さなエラー）。
+PRのタイトルを選択する際には、PRが他の言語のページへの書き換えをトリガーすべきか、またはトリガーすべきでないかを検討してください：
+いくつかの小さな修正は英語のみですが（例：英単語のスペル）、いくつかはすべての言語のページを更新する必要があります（例：コードサンプルの小さなエラー）。
 PRタイトルに "en-only "というキーワードを使用して、このデフォルトの動作を上書きし、PRが翻訳を必要としないことを示してください。
 
 **Pages generated from outside sources**

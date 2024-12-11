@@ -272,7 +272,7 @@ pnpmのインストール・ガイドを参照し、セットアップしてく�
 ```shell
 pnpm install
 
-pnpm start
+pnpm run dev
 ```
 
 If you’re copying these instructions, remember to [configure this project as a fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/configuring-a-remote-repository-for-a-fork).
